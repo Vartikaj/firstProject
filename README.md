@@ -1,5 +1,4 @@
-# firstProject
-it is my first coursera assignment
+
 <html>
 <head>
 	<link href="bootstrap.min.css" rel="stylesheet"/>
