@@ -11,7 +11,6 @@ it is my first coursera assignment
 			height:180px;
 			background-color:gray;
 			border:2px solid black;
-			
 			overflow:hidden;
 		}
 		.z
@@ -21,7 +20,6 @@ it is my first coursera assignment
 	}
 	@media (min-width:290px) and (max-width:790px)
 	{
-		
 		.y
 		{
 			margin-top: 20px;
@@ -30,8 +28,7 @@ it is my first coursera assignment
 		.container
 		{
 			height:auto;
-			max-width:1200px;
-			
+			max-width:1200px;	
 		}
 		.col-lg-3
 		{
@@ -40,9 +37,7 @@ it is my first coursera assignment
 			border:3px solid black;
 			margin-left:45px;
 			margin-right:45px;
-			overflow:hidden;
-			
-			
+			overflow:hidden;	
 		}
 		#p
 		{
@@ -52,15 +47,12 @@ it is my first coursera assignment
 			letter-spacing: 0.1em;
 			color:black;
 		}
-		
 		.col-xs-4
 		{
-			
 			height:30px;
 			margin-left: 73%;
 			padding-left:20px;
-			border:3px solid black;
-			
+			border:3px solid black;	
 		}
 		.a
 		{
@@ -75,8 +67,6 @@ it is my first coursera assignment
 			background-color:yellow;
 		}
 	</style>
-	
-
 </head>
     <body>
     	<div class="container">
@@ -93,12 +83,9 @@ it is my first coursera assignment
     			<div class="col-lg-3 col-sm-11 z"><div  class="col-xs-4 c" style="font-weight: 800;">Sushi</div><br/>
     			<p style="font-weight:800; font-style:italic;word-spacing: 2px;">Sushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice. It is often prepared with seafood, such as calamari, eel, or imitation crab meat. Many others are vegetarian.</p>
     		</div>
-
     		</div>
-    	</div>
-		<script type="text/javascript" src="jquery-1.8.3.js"></script>
+    	</div>	
+	    <script type="text/javascript" src="jquery-1.8.3.js"></script>
 		<script type="text/javascript" src="bootstrap.min.js"></script>
-    	
-
 	</body>
  </html>
