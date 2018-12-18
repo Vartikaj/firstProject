@@ -2,6 +2,7 @@
 it is my first coursera assignment
 <html>
 <head>
+	<link href="bootstrap.min.css" rel="stylesheet"/>
 	<style type="text/css">
 	@media (max-width:1199px)
 	{
@@ -74,7 +75,7 @@ it is my first coursera assignment
 			background-color:yellow;
 		}
 	</style>
-	<link href="bootstrap.min.css" rel="stylesheet"/>
+	
 
 </head>
     <body>
