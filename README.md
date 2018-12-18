@@ -29,6 +29,7 @@ it is my first coursera assignment
 		.container
 		{
 			height:auto;
+			max-width:1200px;
 			
 		}
 		.col-lg-3
@@ -78,7 +79,7 @@ it is my first coursera assignment
 </head>
     <body>
     	<div class="container">
-    		<p align="center" id=p>Menu</p>
+    		<p id="p">Menu</p>
     		<br/>
     		<br/>
     		<div class="row">
